@@ -1,7 +1,6 @@
 body {
   background-color: powderblue;
   overflow-x: hidden;
-
 }
 
 .h1 {
@@ -26,8 +25,6 @@ body {
   left: auto;
 }
 
-
-
 .btn1 {
   font-size: xx-large;
   background-color: azure;
@@ -40,10 +37,8 @@ body {
   animation-name: btn1;
 }
 
-
 :hover.btn1 {
   background-color: black;
-
 }
 
 .div1 {
@@ -90,7 +85,6 @@ body {
   /* gap:10px; */
   padding: 10px;
   display: inline-block;
-
 }
 
 video {
@@ -116,17 +110,13 @@ video {
 position: relative;
 top: 20px;
  right:30px; */
-
 }
 
 :hover.audio1 {
   background-color: cadetblue;
   transform: scale(1.1);
   transition: 0.5s;
-
 }
-
-
 
 .ind2 {
   overflow-x: hidden;
@@ -153,7 +143,6 @@ top: 20px;
 
 :hover.ind2 {
   border-color: black;
-
 }
 
 .note {
@@ -161,7 +150,6 @@ top: 20px;
   font-family: cursive;
   font-weight: bolder;
   font-style: italic;
-
 }
 
 /* Working for html3 */
@@ -173,7 +161,7 @@ top: 20px;
 
 .impoffajr {
   font-size: 50px;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
 .impofsalah {
@@ -186,8 +174,6 @@ top: 20px;
   /* display: inline-block; */
 }
 
-
-
 /* chat gpt media query */
 
 /* ===== Global Reset & Base Styles ===== */
@@ -197,7 +183,6 @@ top: 20px;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-
 }
 
 body {
